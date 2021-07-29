@@ -1,0 +1,12 @@
+.text-color{
+    color: red;
+}
+.horizantal-style{
+    width: 100px;
+    height:4px;
+    margin: auto;
+    color:red;
+}
+.gray-img{
+        filter: grayscale(100%);
+}
